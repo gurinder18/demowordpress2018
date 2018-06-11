@@ -1,0 +1,11 @@
+/************11-06-2018************/
+.bg-dark {
+    background-color: #fff !important;
+}
+.headt {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    color: #ff541e;
+    font-weight: 500;
+    padding: 40px 0 0 0;
+}

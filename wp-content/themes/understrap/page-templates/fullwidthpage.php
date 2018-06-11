@@ -44,6 +44,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	</div><!-- Container end -->
 
+	
 </div><!-- Wrapper end -->
-
+<?php dynamic_sidebar( 'custom-sidebar' ); ?>
 <?php get_footer(); ?>

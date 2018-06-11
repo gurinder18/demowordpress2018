@@ -100,6 +100,16 @@ if ( ! function_exists( 'understrap_widgets_init' ) ) {
 		    'before_title'   => '<h3 class="widget-title">', 
 		    'after_title'    => '</h3>', 
 		) );
+			register_sidebar( array(
+			'name'          => __( 'Custom Sidebar', 'understrap' ),
+			'id'            => 'custom-sidebar',
+			'description'   => 'Custom sidebar widget area',
+			'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</aside>',
+			'before_title'  => '<h3 class="widget-title">',
+			'after_title'   => '</h3>',
+		) );
+		
 
 	}
 } // endif function_exists( 'understrap_widgets_init' ).
