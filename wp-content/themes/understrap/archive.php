@@ -45,6 +45,16 @@ $container   = get_theme_mod( 'understrap_container_type' );
 						 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
 						 */
 						get_template_part( 'loop-templates/content', get_post_format() );
+						if(get_field('price'))
+						{
+						?>
+						<p><b>Price: </b>
+						<?php the_field('price'); ?> </p>
+						<p><b>Auther: </b>
+						<?php
+						the_field('auther');?></p>
+						<?php
+						}
 						?>
 
 					<?php endwhile; ?>

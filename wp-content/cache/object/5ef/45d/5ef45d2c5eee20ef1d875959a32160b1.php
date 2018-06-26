@@ -1,0 +1,7 @@
+;	"[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:75;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2018-06-08 12:51:56";s:13:"post_date_gmt";s:19:"2018-06-08 12:51:56";s:12:"post_content";s:746:"<h1 class="head1s" style="color: #0090ff; font-family: 'Lato', Calibri, Arial, sans-serif;">Portfolio</h1>
+<div class="infoh">
+<div class="row">Our product portfolio is the result of our extensive experience of the telecoms sector, including long-term relationships with customers. It is based on a strong commitment to research and development, as well as industry-wide standards, and addresses both customersâ€™ business and technology demand.
+<span class="fth">Our industry leading software supports the feature-rich applications that bring devices to life, from augmented reality to advanced mobile platforms for app.</span></div>
+&nbsp; 
+</div>
+[tlpportfolio layout="1" col="4"  cat="6" letter-limit="100" title-color="#132e77"]";s:10:"post_title";s:9:"Portfolio";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"portfolio";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-06-13 04:35:56";s:17:"post_modified_gmt";s:19:"2018-06-13 04:35:56";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:51:"http://localhost:8080/demowordpress2018/?page_id=75";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

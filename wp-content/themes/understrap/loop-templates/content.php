@@ -30,6 +30,7 @@
 
 		<?php
 		the_excerpt();
+		the_field('user_reviews');
 		?>
 
 		<?php

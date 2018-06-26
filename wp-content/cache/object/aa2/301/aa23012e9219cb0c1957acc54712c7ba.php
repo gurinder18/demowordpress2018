@@ -1,0 +1,1 @@
+²"[<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1528864041:1";}s:17:"_wp_page_template";a:1:{i:0;s:27:"page-templates/about-us.php";}s:19:"post_or_pages_title";a:1:{i:0;s:5:"Array";}s:29:"_yoast_wpseo_post_image_cache";a:1:{i:0;s:6:"a:0:{}";}}}
