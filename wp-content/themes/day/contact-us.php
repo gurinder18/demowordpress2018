@@ -22,6 +22,7 @@ get_header();
             <div class="row contact-wrap"> 
                 <div class="status alert alert-success" style="display: none"></div>
                 <?php echo do_shortcode('[gravityform id="1" title="false" description="false"]'); ?>
+                <?php //echo do_shortcode('[contact-form-7 id="379" title="Contact form 1"]'); ?>
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#contact-page-->
